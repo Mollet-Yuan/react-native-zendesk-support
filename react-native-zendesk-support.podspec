@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.framework    = 'Foundation'
   s.framework    = 'UIKit'
-
-  s.dependency 'React-Core'
-  s.dependency 'ZendeskChatSDK'
+  s.dependency  'React'
+  # s.dependency 'React-Core'
+  # s.dependency 'ZendeskChatSDK'
 end
